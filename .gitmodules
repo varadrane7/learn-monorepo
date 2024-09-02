@@ -1,3 +1,6 @@
 [submodule "python/directory-organizer"]
 	path = python/directory-organizer
 	url = https://github.com/varadrane7/Directory-Organizer.git
+[submodule "python/data-science/ds-application-tu-dortmund"]
+	path = python/data-science/ds-application-tu-dortmund
+	url = https://github.com/varadrane7/data-science-application-tu-dortmund.git
