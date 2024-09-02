@@ -1,0 +1,3 @@
+[submodule "python/directory-organizer"]
+	path = python/directory-organizer
+	url = https://github.com/varadrane7/Directory-Organizer.git
